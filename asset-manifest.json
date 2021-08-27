@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/USTRAA/static/css/main.237a9ef1.chunk.css",
+    "main.js": "/USTRAA/static/js/main.780aae85.chunk.js",
+    "main.js.map": "/USTRAA/static/js/main.780aae85.chunk.js.map",
+    "runtime-main.js": "/USTRAA/static/js/runtime-main.2bfafc58.js",
+    "runtime-main.js.map": "/USTRAA/static/js/runtime-main.2bfafc58.js.map",
+    "static/css/2.818011ed.chunk.css": "/USTRAA/static/css/2.818011ed.chunk.css",
+    "static/js/2.c00e6594.chunk.js": "/USTRAA/static/js/2.c00e6594.chunk.js",
+    "static/js/2.c00e6594.chunk.js.map": "/USTRAA/static/js/2.c00e6594.chunk.js.map",
+    "index.html": "/USTRAA/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/USTRAA/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.237a9ef1.chunk.css.map": "/USTRAA/static/css/main.237a9ef1.chunk.css.map",
+    "static/js/2.c00e6594.chunk.js.LICENSE.txt": "/USTRAA/static/js/2.c00e6594.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bfafc58.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.c00e6594.chunk.js",
+    "static/css/main.237a9ef1.chunk.css",
+    "static/js/main.780aae85.chunk.js"
+  ]
+}
